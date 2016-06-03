@@ -1,6 +1,6 @@
 {
-  "author": "Dmitry Prokashev <heliosframework@gmail.com>",
-  "name": "microlight",
+  "author": "Tony Lopez <tony@zekken.rocks>",
+  "name": "microlight-css-selection",
   "description": "highlights code in any language",
   "version": "0.0.1",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/asvd/microlight.git"
+    "url": "git://github.com/lopeax/microlight.git"
   },
   "main": "microlight.js",
   "dependencies": {},
