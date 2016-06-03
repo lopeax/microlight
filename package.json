@@ -2,7 +2,7 @@
   "author": "Tony Lopez <tony@zekken.rocks>",
   "name": "microlight-css-selection",
   "description": "highlights code in any language",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "syntax",
     "highlight",
