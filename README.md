@@ -12,6 +12,22 @@ microlight.js
 
 For a demo refer to http://codepen.io/zephyr/pen/MewjYd
 
+## Installation
+
+This library is installable by either npm or bower
+
+--
+**NPM**
+```bash
+npm i microlight-css-selection
+```
+
+--
+**Bower**
+```bash
+bower install microlight-css-selection
+```
+
 ## CSS
 
 The following are some recommended css rules to target the elements within microlight
