@@ -1,9 +1,10 @@
 {
-  "name": "microlight",
+  "name": "microlight-css-selection",
   "version": "0.0.1",
-  "homepage": "https://github.com/asvd/microlight",
+  "homepage": "https://github.com/lopeax/microlight",
   "authors": [
-    "Dmitry Prokashev <heliosframework@gmail.com>"
+    "Dmitry Prokashev <heliosframework@gmail.com>",
+    "Tony Lopez <tony@zekken.rocks>"
   ],
   "description": "highlights code in any language",
   "main": "microlight.js",
