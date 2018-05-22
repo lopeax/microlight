@@ -27,7 +27,7 @@
         el,  // current microlighted element to run through
 
         // dynamic set of nodes to highlight
-        microlighted = _document.getElementsByClassName('microlight');
+        microlighted = _document.querySelectorAll('pre code');
 
     
     var reset = function(i) {
